@@ -1,1 +1,1 @@
-# nand2tetris_laboratories_0
+# Project 1: Boolean Logic
